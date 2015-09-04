@@ -4,7 +4,7 @@ Plugin Name: PyroSteveJr - Events Manager Payment Gateway Placeholder
 Version: 1.0
 Plugin URI: http://pyrostevejr.com/
 Description: Adds #_PAYMENTGATEWAY placeholder for Events Manager to display which Payment Gateway was used.
-Author: Stephen Phillips (Pyro)
+Author: Stephen Phillips (PyroSteveJr)
 Author URI: http://pyrostevejr.com/
 */
 
